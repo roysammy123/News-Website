@@ -3,4 +3,4 @@ Developed a full-stack, full-featured website including user-friendly forms for 
 
 Implemented user authentication using Firebase Auth and deployed the site on AWS.
 
-Contributors to this project: Manav Malhotra, Saksham Chhawan, Swarnav Kumar
+Contributors to this project: <a href="https://github.com/Manav173", target="_blank">Manav Malhotra</a>, <a href="https://github.com/sakshamchhawan18", target="_blank">Saksham Chhawan</a>, <a href="https://github.com/Swarnav-Kumar", target="_blank">Swarnav Kumar</a>
